@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: d42fa22ba9a26da47bc6a9bfb8668931
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -223524528058173645
+    second: 428_0
+  - first:
+      213: -7308778526098947163
+    second: 428_1
+  - first:
+      213: -7767159420651600868
+    second: 428_2
+  - first:
+      213: -2133904698191150544
+    second: 428_3
+  - first:
+      213: 4218798477412854168
+    second: 428_4
+  - first:
+      213: -3859324176952361250
+    second: 428_5
+  - first:
+      213: -8372785811487669426
+    second: 428_6
+  - first:
+      213: -3281405920966244955
+    second: 428_7
+  - first:
+      213: -8714153906825206549
+    second: 428_8
+  - first:
+      213: 7841585913997659058
+    second: 428_9
+  - first:
+      213: -8944162467892681870
+    second: 428_10
+  - first:
+      213: 317737946742222634
+    second: 428_11
+  - first:
+      213: 2562778384726831829
+    second: 428_12
+  - first:
+      213: -5267151332354734764
+    second: 428_13
+  - first:
+      213: 2607616334624527163
+    second: 428_14
+  - first:
+      213: 4412992063556568828
+    second: 428_15
+  - first:
+      213: 4062579065557490247
+    second: 428_16
+  - first:
+      213: 6531715087907482973
+    second: 428_17
+  - first:
+      213: -8685050897024975703
+    second: 428_18
+  - first:
+      213: 1804223233453564016
+    second: 428_19
+  - first:
+      213: -4819776250962368244
+    second: 428_20
+  - first:
+      213: -9005083716324561612
+    second: 428_21
+  - first:
+      213: 615240807592885884
+    second: 428_22
+  - first:
+      213: 3928647272264196435
+    second: 428_23
+  - first:
+      213: 5969892444988679098
+    second: 428_24
+  - first:
+      213: -1206631366454830643
+    second: 428_25
+  - first:
+      213: -1186371966696195958
+    second: 428_26
+  - first:
+      213: -9149786825794660694
+    second: 428_27
+  - first:
+      213: -4502708770680235997
+    second: 428_28
+  - first:
+      213: 107427655487219038
+    second: 428_29
+  - first:
+      213: -8727346953109024034
+    second: 428_30
+  - first:
+      213: 7740100885902283535
+    second: 428_31
+  - first:
+      213: -6440221879967361675
+    second: 428_32
+  - first:
+      213: -283302845229389140
+    second: 428_33
+  - first:
+      213: 7164961925346311814
+    second: 428_34
+  - first:
+      213: -3976846857780945323
+    second: 428_35
+  - first:
+      213: 2702941270408676147
+    second: 428_36
+  - first:
+      213: -8041569473948065619
+    second: 428_37
+  - first:
+      213: -277203119966417389
+    second: 428_38
+  - first:
+      213: -3243178932432949981
+    second: 428_39
+  - first:
+      213: -7976553885560089475
+    second: 428_40
+  - first:
+      213: -733041449464373246
+    second: 428_41
+  - first:
+      213: 5047022315214745894
+    second: 428_42
+  - first:
+      213: 4865575884999954445
+    second: 428_43
+  - first:
+      213: 5084439933267872767
+    second: 428_44
+  - first:
+      213: -1728338520650919689
+    second: 428_45
+  - first:
+      213: -4420426496114835265
+    second: 428_46
+  - first:
+      213: -6360303364963637774
+    second: 428_47
+  - first:
+      213: -8838463923252675370
+    second: 428_48
+  - first:
+      213: -538770611490860867
+    second: 428_49
+  - first:
+      213: -1074073304641178819
+    second: 428_50
+  - first:
+      213: 4882280304174982555
+    second: 428_51
+  - first:
+      213: -1056789652123647281
+    second: 428_52
+  - first:
+      213: -8816176765805910996
+    second: 428_53
+  - first:
+      213: -2608330272129920546
+    second: 428_54
+  - first:
+      213: 968384870353863016
+    second: 428_55
+  - first:
+      213: -9195887049604821396
+    second: 428_56
+  - first:
+      213: 2618721899514275804
+    second: 428_57
+  - first:
+      213: -7577163571919256233
+    second: 428_58
+  - first:
+      213: 9122015612629703466
+    second: 428_59
+  - first:
+      213: -184652073711518860
+    second: 428_60
+  - first:
+      213: -176951407392323298
+    second: 428_61
+  - first:
+      213: -7102788647735156252
+    second: 428_62
+  - first:
+      213: 3851771861534198714
+    second: 428_63
+  - first:
+      213: 5471143820424429184
+    second: 428_64
+  - first:
+      213: -3010943979098506655
+    second: 428_65
+  - first:
+      213: 9001439621138146741
+    second: 428_66
+  - first:
+      213: 5398056956544940700
+    second: 428_67
+  - first:
+      213: -193233290208910565
+    second: 428_68
+  - first:
+      213: 5071783939895020702
+    second: 428_69
+  - first:
+      213: 1796133102684787625
+    second: 428_70
+  - first:
+      213: 2062825408645060695
+    second: 428_71
+  - first:
+      213: 1735930515601699562
+    second: 428_72
+  - first:
+      213: 613332270622478056
+    second: 428_73
+  - first:
+      213: -1631786371759563565
+    second: 428_74
+  - first:
+      213: -5489114101628012212
+    second: 428_75
+  - first:
+      213: 2147070759002946960
+    second: 428_76
+  - first:
+      213: -8468507580729176245
+    second: 428_77
+  - first:
+      213: 3098609754446150370
+    second: 428_78
+  - first:
+      213: 7478996192226572216
+    second: 428_79
+  - first:
+      213: -7018548713152161369
+    second: 428_80
+  - first:
+      213: 5109088985035690036
+    second: 428_81
+  - first:
+      213: -6489117687707819467
+    second: 428_82
+  - first:
+      213: 4462795604585099181
+    second: 428_83
+  - first:
+      213: 2540836673621890299
+    second: 428_84
+  - first:
+      213: -111639701246880651
+    second: 428_85
+  - first:
+      213: -1123525426716106886
+    second: 428_86
+  - first:
+      213: -7477203511504521183
+    second: 428_87
+  - first:
+      213: -2874648280162363221
+    second: 428_88
+  - first:
+      213: -1316096188717912523
+    second: 428_89
+  - first:
+      213: 8083453218652944290
+    second: 428_90
+  - first:
+      213: -8778168882989176041
+    second: 428_91
+  - first:
+      213: -4169405559818480540
+    second: 428_92
+  - first:
+      213: -688701278995338215
+    second: 428_93
+  - first:
+      213: 7550975560211456704
+    second: 428_94
+  - first:
+      213: -2103354101876203627
+    second: 428_95
+  - first:
+      213: 7620886532577950746
+    second: 428_96
+  - first:
+      213: 7492009151289789447
+    second: 428_97
+  - first:
+      213: -1805959808019204143
+    second: 428_98
+  - first:
+      213: 616726468493006309
+    second: 428_99
+  - first:
+      213: -6301195409463264333
+    second: 428_100
+  - first:
+      213: 7644279836898777711
+    second: 428_101
+  - first:
+      213: -1186366039206805506
+    second: 428_102
+  - first:
+      213: 9077823892894310619
+    second: 428_103
+  - first:
+      213: -3251151582772424712
+    second: 428_104
+  - first:
+      213: -5192699513832670455
+    second: 428_105
+  - first:
+      213: 2209268608423477963
+    second: 428_106
+  - first:
+      213: 4259904474446501346
+    second: 428_107
+  - first:
+      213: -1359968316801493389
+    second: 428_108
+  - first:
+      213: -8255669592052657455
+    second: 428_109
+  - first:
+      213: -5344486620288148720
+    second: 428_110
+  - first:
+      213: -4710566627368208406
+    second: 428_111
+  - first:
+      213: -6229682754493997181
+    second: 428_112
+  - first:
+      213: 7179560812328088367
+    second: 428_113
+  - first:
+      213: 786664173754951819
+    second: 428_114
+  - first:
+      213: -266798736582943750
+    second: 428_115
+  - first:
+      213: 698352773640896246
+    second: 428_116
+  - first:
+      213: -4242566648845488899
+    second: 428_117
+  - first:
+      213: -1736470419636035214
+    second: 428_118
+  - first:
+      213: 3535576854025317239
+    second: 428_119
+  - first:
+      213: 7257613563075775289
+    second: 428_120
+  - first:
+      213: -1465596886349051424
+    second: 428_121
+  - first:
+      213: -6366205933113026014
+    second: 428_122
+  - first:
+      213: -6159037973055356228
+    second: 428_123
+  - first:
+      213: -5535663691987299446
+    second: 428_124
+  - first:
+      213: -3678647957409421756
+    second: 428_125
+  - first:
+      213: 5586377908996916307
+    second: 428_126
+  - first:
+      213: 4329313385141489064
+    second: 428_127
+  - first:
+      213: 1689319931679652048
+    second: 428_128
+  - first:
+      213: -347757479419936593
+    second: 428_129
+  - first:
+      213: -1700378040269344409
+    second: 428_130
+  - first:
+      213: -7057403524951343073
+    second: 428_131
+  - first:
+      213: 2328647310865091797
+    second: 428_132
+  - first:
+      213: 1111315865915931161
+    second: 428_133
+  - first:
+      213: 880509518188531560
+    second: 428_134
+  - first:
+      213: -5498943317032448409
+    second: 428_135
+  - first:
+      213: -1046297161672572504
+    second: 428_136
+  - first:
+      213: 671758723952591951
+    second: 428_137
+  - first:
+      213: 7110942593398549411
+    second: 428_138
+  - first:
+      213: -7059386826197319703
+    second: 428_139
+  - first:
+      213: 1575685421673949403
+    second: 428_140
+  - first:
+      213: 1215435550377394668
+    second: 428_141
+  - first:
+      213: -8754474452031481995
+    second: 428_142
+  - first:
+      213: -8773002153633414632
+    second: 428_143
+  - first:
+      213: 142706749365885162
+    second: 428_144
+  - first:
+      213: 2279242984813487773
+    second: 428_145
+  - first:
+      213: -7542060321462140090
+    second: 428_146
+  - first:
+      213: -2564121371056265159
+    second: 428_147
+  - first:
+      213: 2645342171223160109
+    second: 428_148
+  - first:
+      213: 7564226607982537285
+    second: 428_149
+  - first:
+      213: 4491159614308435212
+    second: 428_150
+  - first:
+      213: -4980354736712414404
+    second: 428_151
+  - first:
+      213: -8768101332202199754
+    second: 428_152
+  - first:
+      213: 6691042533438974473
+    second: 428_153
+  - first:
+      213: -3771081702090261357
+    second: 428_154
+  - first:
+      213: -695227012484570726
+    second: 428_155
+  - first:
+      213: -427242619293012424
+    second: 428_156
+  - first:
+      213: 5740558985635110935
+    second: 428_157
+  - first:
+      213: -5858525132829200489
+    second: 428_158
+  - first:
+      213: 7429271921584227045
+    second: 428_159
+  - first:
+      213: 8297671539891484789
+    second: 428_160
+  - first:
+      213: 9066475895010884148
+    second: 428_161
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 428_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43637ec30368d8a42865df73bb53b1ec
+      internalID: -606380555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 428_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11db8314bcf5fa24da237525dfb8602c
+      internalID: -2084559126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 428_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d5d4b97ce24054b8a928e2d2c48ff5
+      internalID: 1695043318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 428_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ee2a1fab5bc1541850538f121e5ee9
+      internalID: -1364445363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 428_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d81ef9a954ecc24e87f8413cd5040e3
+      internalID: -212252558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 428_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955ea5ddba5081e46b8ef439584a346b
+      internalID: -45480091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 428_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c931db233b1f546943681ffb59447d
+      internalID: 675939596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 428_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7172b596036a84393b59e4cc49fc71
+      internalID: 91025978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 428_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b07932cec1ebc242814639610f68991
+      internalID: 1037645537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 428_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1160ed255c0254695ab0f9e603d380
+      internalID: 195715586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a46acdf4c3e7c0442be3c99c9f250e14
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":128.0},"gridSpritePadding":{"x":0.0,"y":576.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      428_0: -606380555
+      428_1: -2084559126
+      428_2: 1695043318
+      428_3: -1364445363
+      428_4: -212252558
+      428_5: -45480091
+      428_6: 675939596
+      428_7: 91025978
+      428_8: 1037645537
+      428_9: 195715586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

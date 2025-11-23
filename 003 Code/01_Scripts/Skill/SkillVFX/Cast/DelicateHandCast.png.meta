@@ -1,0 +1,898 @@
+fileFormatVersion: 2
+guid: 2a1cfec5e209724428f4ebc774e8bf21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3597751775406234760
+    second: 474_0
+  - first:
+      213: 9096686833103409805
+    second: 474_1
+  - first:
+      213: -9193977167797781323
+    second: 474_2
+  - first:
+      213: -5945767124294058271
+    second: 474_3
+  - first:
+      213: -8751968326972857097
+    second: 474_4
+  - first:
+      213: 8377524463464976481
+    second: 474_5
+  - first:
+      213: 6630994097641851405
+    second: 474_6
+  - first:
+      213: -1457308759237196879
+    second: 474_7
+  - first:
+      213: 5128460891188959278
+    second: 474_8
+  - first:
+      213: 3868638456317867944
+    second: 474_9
+  - first:
+      213: -1925753883121639290
+    second: 474_10
+  - first:
+      213: 9036802470436142316
+    second: 474_11
+  - first:
+      213: 8401049949875395925
+    second: 474_12
+  - first:
+      213: -6611152071075034707
+    second: 474_13
+  - first:
+      213: 5004101088082160533
+    second: 474_14
+  - first:
+      213: -751878630196271260
+    second: 474_15
+  - first:
+      213: 951127493640659136
+    second: 474_16
+  - first:
+      213: 9060473956152377958
+    second: 474_17
+  - first:
+      213: 7202711436058157255
+    second: 474_18
+  - first:
+      213: 919638437522944271
+    second: 474_19
+  - first:
+      213: -7231556388307280851
+    second: 474_20
+  - first:
+      213: -4509536929280986958
+    second: 474_21
+  - first:
+      213: -2725597285576280313
+    second: 474_22
+  - first:
+      213: 5745897842790480307
+    second: 474_23
+  - first:
+      213: 6396111427711907947
+    second: 474_24
+  - first:
+      213: 1514216714732224956
+    second: 474_25
+  - first:
+      213: 487292402872875101
+    second: 474_26
+  - first:
+      213: 8117144574920175260
+    second: 474_27
+  - first:
+      213: -6247862832291795472
+    second: 474_28
+  - first:
+      213: 8662512987437554498
+    second: 474_29
+  - first:
+      213: 4744361380545709403
+    second: 474_30
+  - first:
+      213: 4324315785350386640
+    second: 474_31
+  - first:
+      213: 215790214589262249
+    second: 474_32
+  - first:
+      213: 5592795736349652565
+    second: 474_33
+  - first:
+      213: 5035646092031006231
+    second: 474_34
+  - first:
+      213: 7486640550558781569
+    second: 474_35
+  - first:
+      213: 7400324980636753900
+    second: 474_36
+  - first:
+      213: 220718451173940277
+    second: 474_37
+  - first:
+      213: -3338800631183170993
+    second: 474_38
+  - first:
+      213: 4993697581275891433
+    second: 474_39
+  - first:
+      213: -5574686317603657667
+    second: 474_40
+  - first:
+      213: -2094339235392521421
+    second: 474_41
+  - first:
+      213: 1617378600577860396
+    second: 474_42
+  - first:
+      213: -2008203974582657910
+    second: 474_43
+  - first:
+      213: -3768873694094931987
+    second: 474_44
+  - first:
+      213: -4084029881626360682
+    second: 474_45
+  - first:
+      213: 6563982384137177143
+    second: 474_46
+  - first:
+      213: -3996808095728079418
+    second: 474_47
+  - first:
+      213: -8234269193045458735
+    second: 474_48
+  - first:
+      213: -7800256864885082157
+    second: 474_49
+  - first:
+      213: 3261360344210660939
+    second: 474_50
+  - first:
+      213: -8093459373462863881
+    second: 474_51
+  - first:
+      213: -205495008048001111
+    second: 474_52
+  - first:
+      213: 2622627735091035704
+    second: 474_53
+  - first:
+      213: -2201814386860900935
+    second: 474_54
+  - first:
+      213: -4603399681798990949
+    second: 474_55
+  - first:
+      213: 5146668970192955037
+    second: 474_56
+  - first:
+      213: -6697262161038101460
+    second: 474_57
+  - first:
+      213: 1898847425066796354
+    second: 474_58
+  - first:
+      213: -5195971437303837054
+    second: 474_59
+  - first:
+      213: 5601089126319607066
+    second: 474_60
+  - first:
+      213: 5407179612593628700
+    second: 474_61
+  - first:
+      213: -7090224947907057958
+    second: 474_62
+  - first:
+      213: 4860211387823174213
+    second: 474_63
+  - first:
+      213: -3339665708945224972
+    second: 474_64
+  - first:
+      213: 1995660346484629083
+    second: 474_65
+  - first:
+      213: -5408826002367036196
+    second: 474_66
+  - first:
+      213: 8939394737475237432
+    second: 474_67
+  - first:
+      213: 8582375868556431812
+    second: 474_68
+  - first:
+      213: -8074808128864869060
+    second: 474_69
+  - first:
+      213: 8097104037319955604
+    second: 474_70
+  - first:
+      213: -2192299115533844915
+    second: 474_71
+  - first:
+      213: 665061945028845182
+    second: 474_72
+  - first:
+      213: -6842810533083583745
+    second: 474_73
+  - first:
+      213: -34280226435256942
+    second: 474_74
+  - first:
+      213: -1162390081745350629
+    second: 474_75
+  - first:
+      213: -1114862082729686547
+    second: 474_76
+  - first:
+      213: -336888978368343701
+    second: 474_77
+  - first:
+      213: -493172159710271256
+    second: 474_78
+  - first:
+      213: -220067757113175511
+    second: 474_79
+  - first:
+      213: 5385081882834301867
+    second: 474_80
+  - first:
+      213: 237553893549506322
+    second: 474_81
+  - first:
+      213: -5893625530916978643
+    second: 474_82
+  - first:
+      213: -7506109130587490002
+    second: 474_83
+  - first:
+      213: -5047276189681350770
+    second: 474_84
+  - first:
+      213: 6408474285926032598
+    second: 474_85
+  - first:
+      213: -8719828708916302045
+    second: 474_86
+  - first:
+      213: -3303151937984035211
+    second: 474_87
+  - first:
+      213: -8367252813803081406
+    second: 474_88
+  - first:
+      213: -4250365665552578558
+    second: 474_89
+  - first:
+      213: 3635796854625475612
+    second: 474_90
+  - first:
+      213: 2787857579093404781
+    second: 474_91
+  - first:
+      213: 8240453835376050161
+    second: 474_92
+  - first:
+      213: 2701718865915058453
+    second: 474_93
+  - first:
+      213: 6997911446034939630
+    second: 474_94
+  - first:
+      213: 3490036251970984792
+    second: 474_95
+  - first:
+      213: -8941488611690289790
+    second: 474_96
+  - first:
+      213: -6498995657415243676
+    second: 474_97
+  - first:
+      213: -7102337627799846541
+    second: 474_98
+  - first:
+      213: 8953956848022076348
+    second: 474_99
+  - first:
+      213: 8792208539502358625
+    second: 474_100
+  - first:
+      213: -579444930629826029
+    second: 474_101
+  - first:
+      213: 8199033209769403932
+    second: 474_102
+  - first:
+      213: 1887425901729734285
+    second: 474_103
+  - first:
+      213: -8777716379561072016
+    second: 474_104
+  - first:
+      213: -6551631037753973583
+    second: 474_105
+  - first:
+      213: -393879049671641960
+    second: 474_106
+  - first:
+      213: 81680504684055323
+    second: 474_107
+  - first:
+      213: -2500552077175939479
+    second: 474_108
+  - first:
+      213: 3514095230268696373
+    second: 474_109
+  - first:
+      213: -7255814315616738533
+    second: 474_110
+  - first:
+      213: -8618080597908696062
+    second: 474_111
+  - first:
+      213: -6544824717735670305
+    second: 474_112
+  - first:
+      213: 7770006566710107418
+    second: 474_113
+  - first:
+      213: 5703961956342503525
+    second: 474_114
+  - first:
+      213: 5296843583721590434
+    second: 474_115
+  - first:
+      213: 1688733256459563559
+    second: 474_116
+  - first:
+      213: -5516473539955710682
+    second: 474_117
+  - first:
+      213: -7995786162212979652
+    second: 474_118
+  - first:
+      213: 718293898493679787
+    second: 474_119
+  - first:
+      213: 5434336524991280930
+    second: 474_120
+  - first:
+      213: -8783891926535468731
+    second: 474_121
+  - first:
+      213: -2883580707857605854
+    second: 474_122
+  - first:
+      213: 774053212452863231
+    second: 474_123
+  - first:
+      213: -1670618946256497745
+    second: 474_124
+  - first:
+      213: 1951934123815301371
+    second: 474_125
+  - first:
+      213: -6944076245927880939
+    second: 474_126
+  - first:
+      213: -7896413398539228976
+    second: 474_127
+  - first:
+      213: 2894027736470089805
+    second: 474_128
+  - first:
+      213: 320321768818067396
+    second: 474_129
+  - first:
+      213: 6086438222133971421
+    second: 474_130
+  - first:
+      213: 5782498791816929410
+    second: 474_131
+  - first:
+      213: -1733246902074312272
+    second: 474_132
+  - first:
+      213: 7230781059786960953
+    second: 474_133
+  - first:
+      213: 5936739830687529450
+    second: 474_134
+  - first:
+      213: -6167618163052154115
+    second: 474_135
+  - first:
+      213: -6987952717454699933
+    second: 474_136
+  - first:
+      213: -4078463972812847062
+    second: 474_137
+  - first:
+      213: -2354051986457601206
+    second: 474_138
+  - first:
+      213: 1411779715951513646
+    second: 474_139
+  - first:
+      213: -4366854640696090365
+    second: 474_140
+  - first:
+      213: 357974194541940894
+    second: 474_141
+  - first:
+      213: -875349641499559621
+    second: 474_142
+  - first:
+      213: -3897144534679348151
+    second: 474_143
+  - first:
+      213: 7337993670373033837
+    second: 474_144
+  - first:
+      213: 8267087440837075408
+    second: 474_145
+  - first:
+      213: -2381491527929159803
+    second: 474_146
+  - first:
+      213: -2884434327792666068
+    second: 474_147
+  - first:
+      213: -8446418955343357472
+    second: 474_148
+  - first:
+      213: 7652839803298094891
+    second: 474_149
+  - first:
+      213: -8856730338090959529
+    second: 474_150
+  - first:
+      213: -2117312102349391128
+    second: 474_151
+  - first:
+      213: 6773284215676093883
+    second: 474_152
+  - first:
+      213: 1226741581973467119
+    second: 474_153
+  - first:
+      213: -2365244026276376700
+    second: 474_154
+  - first:
+      213: 8411865778128884119
+    second: 474_155
+  - first:
+      213: -7069087360563346288
+    second: 474_156
+  - first:
+      213: -7724919724308320365
+    second: 474_157
+  - first:
+      213: 5992975572893550297
+    second: 474_158
+  - first:
+      213: -7782792697896758637
+    second: 474_159
+  - first:
+      213: -1263234183956080139
+    second: 474_160
+  - first:
+      213: 2744261428380225517
+    second: 474_161
+  - first:
+      213: 7292258211491239616
+    second: 474_162
+  - first:
+      213: 16179527163931467
+    second: 474_163
+  - first:
+      213: 5518713410248071208
+    second: 474_164
+  - first:
+      213: 5391934968476205918
+    second: 474_165
+  - first:
+      213: -1315961847128113683
+    second: 474_166
+  - first:
+      213: -3496290900448177148
+    second: 474_167
+  - first:
+      213: -8752287894596094155
+    second: 474_168
+  - first:
+      213: 6969768836342265277
+    second: 474_169
+  - first:
+      213: -4975221570588564406
+    second: 474_170
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DelicateHandCast_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee65dd3940fe634aa5cb4e55149044f
+      internalID: 703513254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelicateHandCast_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243651d4bc9208c41a269448e30e9d43
+      internalID: 1872764530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelicateHandCast_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682407b6bade77641b45c5d6f6ff1245
+      internalID: -1154616385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelicateHandCast_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c84a3ed7281be0439a0b9d7c607907b
+      internalID: 1223406882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelicateHandCast_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9b6a58eb43ba14aa894329288d4065
+      internalID: 649192762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelicateHandCast_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6cc7941fc803342b4cf858ae994afb
+      internalID: 1073872660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelicateHandCast_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3a9fd772ed8384db9ae8cdeffade2d
+      internalID: -1241046008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelicateHandCast_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2ca1d73a2ecda468ce8e5b93e1cd3f
+      internalID: -24418388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelicateHandCast_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65be4b61497962b428536425324ead9a
+      internalID: 173670115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelicateHandCast_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d3b1c7dec019f4794331a3fd7997ab
+      internalID: -844755092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelicateHandCast_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8b18210959747459023cbd5ea9e9ba
+      internalID: 1823879874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4660aef13599a2b4d87ecbfe57049cef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":256.0},"gridSpritePadding":{"x":0.0,"y":576.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      DelicateHandCast_0: 703513254
+      DelicateHandCast_1: 1872764530
+      DelicateHandCast_10: 1823879874
+      DelicateHandCast_2: -1154616385
+      DelicateHandCast_3: 1223406882
+      DelicateHandCast_4: 649192762
+      DelicateHandCast_5: 1073872660
+      DelicateHandCast_6: -1241046008
+      DelicateHandCast_7: -24418388
+      DelicateHandCast_8: 173670115
+      DelicateHandCast_9: -844755092
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

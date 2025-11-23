@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 133c918b29aeea34799268067fd8cdc0, type: 3}
+  m_Name: SoulDrain
+  m_EditorClassIdentifier: 
+  buffId: BUF-002
+  buffName: "\uC601\uD63C \uD761\uC218"
+  buffIcon: {fileID: -494628772, guid: e3a4ceb321080dc46ba29ac0fbc2a9fe, type: 3}
+  price: 500
+  desription: "\uC801\uC744 \uCC98\uCE58\uD560 \uB54C\uB9C8\uB2E4 \uCCB4\uB825/\uB9C8\uB098\uB97C
+    \uC18C\uB7C9 \uD68C\uBCF5\uD55C\uB2E4."
+  effectDesc: "\uCCB4\uB825 2%, \uB9C8\uB098 1% \uD68C\uBCF5"
+  runScoped: 1
+  triger: 1
+  attackPowerMul: 1
+  moveSpeedMul: 1
+  attackSpeedMul: 1
+  miningSpeedMul: 1
+  damageTakenMul: 1
+  critChanceAdd: 0
+  evasionAdd: 0
+  cooldownReductionMul: 1
+  manaRegenMul: 1
+  onKillBuffDuration: 0
+  OnKillBuffAttackPowerMul: 0
+  lowHpThreshold: 0
+  lowHp_DamageTakenMul: 0
+  lowHp_HpRegenPerSec: 0
+  onKillHealPercent: 0.02
+  onKillManaRegenPercent: 0.01
+  doubleOreChanceAdd: 0
+  enemySlowMul: 1
+  requiredTP002Level: 2

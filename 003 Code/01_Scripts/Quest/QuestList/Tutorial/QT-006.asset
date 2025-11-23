@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04b23c3d1aacd874ca9db0f27c94de0c, type: 3}
+  m_Name: QT-006
+  m_EditorClassIdentifier: 
+  questId: QT-006
+  kind: 0
+  title: "\uAD11\uBB3C \uCC44\uAD11\uD558\uAE30"
+  description: "\uAE30\uC0AC\uB2E8\uC6D0\uC5D0\uAC8C \uBC30\uC6B4\uB300\uB85C \uAD11\uBB3C\uC5D0
+    \uB2E4\uAC00\uAC00 \uCC44\uAD11\uC744 \uD574\uBCF4\uC790."
+  assignNpcId: 3
+  completeNpcId: 3
+  goalType: 1
+  targetId: 1000
+  targetCount: 1
+  rewardMoney: 200
+  tutorialStepOrder: 5

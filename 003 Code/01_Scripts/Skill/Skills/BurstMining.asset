@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4e5c271fab475143b36165411e1c339, type: 3}
+  m_Name: BurstMining
+  m_EditorClassIdentifier: 
+  skillId: SK004
+  skillName: "\uBC84\uC2A4\uD2B8 \uB9C8\uC774\uB2DD"
+  skillIcon: {fileID: 21300000, guid: db795e5f59fb4244c9aac07a4a548e1b, type: 3}
+  description: "\uC77C\uC815 \uC2DC\uAC04 \uB3D9\uC548 \uCC44\uAD11 \uC18D\uB3C4\uB97C
+    \uD06C\uAC8C \uB192\uC778\uB2E4."
+  kind: 0
+  castType: 0
+  duration: 8
+  cooldown: 20
+  cost: 40
+  value: 0.25
+  attackMultiplier: 1
+  damageFlat: 0
+  range: 0
+  radius: 0
+  targeting: 2
+  moveSpeedPercent: 0
+  stunSeconds: 0
+  installPrefab: {fileID: 0}
+  maxLevel: 5
+  upgradeCost: 2c0100005802000084030000b0040000dc050000
+  levelCooldown: []
+  levelDuration: []
+  levelMPCost: 
+  levelValue:
+  - 0.25
+  - 0.3
+  - 0.35
+  - 0.4
+  - 0.5
+  levelAtkMul: []
+  levelDmgFlat: []
+  levelRange: []
+  levelRadius: []
+  unlockConditions: []
+  castVFX: {fileID: 2358484307460709076, guid: b96a9f86dc586614b995a945e4fd4534, type: 3}
+  hitVFX: {fileID: 0}
+  castAnchor: 0
+  castOffset: {x: 0, y: 0}
+  castFollowCaster: 0
+  vfxLifetime: 1.5
+  buffVFX: {fileID: 1112075451652934415, guid: c7f5975c3c2543740af05902eadc26db, type: 3}
+  buffOffset: {x: 0, y: 0.2}
+  buffFollow: 1
+  castSFX: {fileID: 8300000, guid: b0e62ed71b1538648b719821f4f63b4c, type: 3}
+  hitSFX: {fileID: 0}
+  sfxVolume: 1

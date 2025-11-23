@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4e5c271fab475143b36165411e1c339, type: 3}
+  m_Name: HolyBind
+  m_EditorClassIdentifier: 
+  skillId: SK007
+  skillName: "\uC2E0\uC131\uAD6C\uC18D"
+  skillIcon: {fileID: 990842320, guid: c8e8c436d99ba4742b43d16670878c0d, type: 3}
+  description: "\uC804\uBC29 \uBC94\uC704 \uB0B4 \uC801\uB4E4\uC5D0\uAC8C \uC801\uC740
+    \uD53C\uD574\uB97C \uC8FC\uACE0, \uC774\uB3D9 \uC18D\uB3C4\uB97C \uB300\uD3ED
+    \uAC10\uC18C\uC2DC\uD0A8\uB2E4."
+  kind: 1
+  castType: 0
+  duration: 5
+  cooldown: 30
+  cost: 30
+  value: 0
+  attackMultiplier: 0.2
+  damageFlat: 0
+  range: 5
+  radius: 0
+  targeting: 1
+  moveSpeedPercent: 0.25
+  stunSeconds: 0
+  installPrefab: {fileID: 0}
+  maxLevel: 5
+  upgradeCost: d0070000ac0d00008813000064190000401f0000
+  levelCooldown:
+  - 30
+  - 28
+  - 26
+  - 24
+  - 20
+  levelDuration: []
+  levelMPCost: 
+  levelValue: []
+  levelAtkMul: []
+  levelDmgFlat: []
+  levelRange: []
+  levelRadius: []
+  unlockConditions:
+  - requiredSkillId: SK002
+    requiredLevel: 5
+  castVFX: {fileID: 5095602736490484689, guid: 1e771162ed7079642ac42a39a2bea02f, type: 3}
+  hitVFX: {fileID: 2660534194802769276, guid: 204311c1425bcfe4e8bf8ca369315eb5, type: 3}
+  castAnchor: 0
+  castOffset: {x: 0, y: 0}
+  castFollowCaster: 0
+  vfxLifetime: 1.5
+  buffVFX: {fileID: 0}
+  buffOffset: {x: 0, y: 0.2}
+  buffFollow: 1
+  castSFX: {fileID: 0}
+  hitSFX: {fileID: 0}
+  sfxVolume: 1

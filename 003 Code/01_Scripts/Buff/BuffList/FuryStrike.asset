@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 133c918b29aeea34799268067fd8cdc0, type: 3}
+  m_Name: FuryStrike
+  m_EditorClassIdentifier: 
+  buffId: BUF-001
+  buffName: "\uBD84\uB178\uC758 \uC77C\uACA9"
+  buffIcon: {fileID: -494628772, guid: e3a4ceb321080dc46ba29ac0fbc2a9fe, type: 3}
+  price: 500
+  desription: "\uC801 \uCC98\uCE58 \uC2DC \uC77C\uC2DC\uC801\uC73C\uB85C \uACF5\uACA9\uB825\uC774
+    \uC99D\uAC00\uD55C\uB2E4."
+  effectDesc: "30% \uC99D\uAC00"
+  runScoped: 0
+  triger: 1
+  attackPowerMul: 1
+  moveSpeedMul: 1
+  attackSpeedMul: 1
+  miningSpeedMul: 1
+  damageTakenMul: 1
+  critChanceAdd: 0
+  evasionAdd: 0
+  cooldownReductionMul: 1
+  manaRegenMul: 1
+  onKillBuffDuration: 5
+  OnKillBuffAttackPowerMul: 1.3
+  lowHpThreshold: 0
+  lowHp_DamageTakenMul: 0
+  lowHp_HpRegenPerSec: 0
+  onKillHealPercent: 0
+  onKillManaRegenPercent: 0
+  doubleOreChanceAdd: 0
+  enemySlowMul: 0
+  requiredTP002Level: 1

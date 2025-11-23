@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4e5c271fab475143b36165411e1c339, type: 3}
+  m_Name: Decoy
+  m_EditorClassIdentifier: 
+  skillId: SK008
+  skillName: "\uB3C4\uBC1C \uC778\uD615"
+  skillIcon: {fileID: 21300000, guid: ec47f75fe8aff1644ac73998f4ad31b5, type: 3}
+  description: "\uC801\uB4E4\uC758 \uC774\uBAA9\uC744 \uB044\uB294 \uC778\uD615\uC744
+    \uC124\uCE58\uD55C\uB2E4. \uC801\uC758 \uACF5\uACA9\uC744 3\uD68C \uBC1B\uC73C\uBA74
+    \uD30C\uAD34\uB41C\uB2E4."
+  kind: 4
+  castType: 0
+  duration: 10
+  cooldown: 30
+  cost: 40
+  value: 0.7
+  attackMultiplier: 1
+  damageFlat: 0
+  range: 1
+  radius: 0
+  targeting: 1
+  moveSpeedPercent: 0
+  stunSeconds: 0
+  installPrefab: {fileID: 5628018141983903104, guid: ef67ba864d1ecc042b5f4cf48455c0a6, type: 3}
+  maxLevel: 5
+  upgradeCost: ee0200007e0400000e0600009e0700002e090000
+  levelCooldown:
+  - 30
+  - 28
+  - 26
+  - 24
+  - 20
+  levelDuration: []
+  levelMPCost: 
+  levelValue: []
+  levelAtkMul: []
+  levelDmgFlat: []
+  levelRange: []
+  levelRadius: []
+  unlockConditions:
+  - requiredSkillId: SK002
+    requiredLevel: 3
+  castVFX: {fileID: 419489031253301081, guid: 672721e21fec54b498f964de116cec2f, type: 3}
+  hitVFX: {fileID: 0}
+  castAnchor: 0
+  castOffset: {x: 0, y: 0}
+  castFollowCaster: 0
+  vfxLifetime: 1.5
+  buffVFX: {fileID: 0}
+  buffOffset: {x: 0, y: 0.2}
+  buffFollow: 1
+  castSFX: {fileID: 0}
+  hitSFX: {fileID: 0}
+  sfxVolume: 1

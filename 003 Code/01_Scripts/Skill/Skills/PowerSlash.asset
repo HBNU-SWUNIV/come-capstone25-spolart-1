@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4e5c271fab475143b36165411e1c339, type: 3}
+  m_Name: PowerSlash
+  m_EditorClassIdentifier: 
+  skillId: SK003
+  skillName: "\uD30C\uC6CC \uC2AC\uB798\uC2DC"
+  skillIcon: {fileID: 21300000, guid: 5c77f3859a24b5046b4c952968f7f5ca, type: 3}
+  description: "\uC804\uBC29\uC744 \uAC15\uD558\uAC8C \uBCA0\uC5B4 \uBC94\uC704 \uB0B4
+    \uC801\uC5D0\uAC8C \uD070 \uD53C\uD574\uB97C \uC900\uB2E4."
+  kind: 1
+  castType: 0
+  duration: 0
+  cooldown: 5
+  cost: 15
+  value: 0
+  attackMultiplier: 1.7
+  damageFlat: 0
+  range: 2
+  radius: 0
+  targeting: 1
+  moveSpeedPercent: 0
+  stunSeconds: 0
+  installPrefab: {fileID: 0}
+  maxLevel: 5
+  upgradeCost: 90010000bc020000e80300001405000040060000
+  levelCooldown: []
+  levelDuration: []
+  levelMPCost: 
+  levelValue: []
+  levelAtkMul:
+  - 1.7
+  - 1.8
+  - 2
+  - 2.2
+  - 2.5
+  levelDmgFlat: []
+  levelRange: []
+  levelRadius: []
+  unlockConditions: []
+  castVFX: {fileID: 7126457605770722366, guid: 6fd78ea2bcdd9b8418fad3ea1db9230d, type: 3}
+  hitVFX: {fileID: 7405538057494651617, guid: 1ebccda844702ba49b33c98b55423599, type: 3}
+  castAnchor: 1
+  castOffset: {x: 0, y: 0}
+  castFollowCaster: 0
+  vfxLifetime: 1.5
+  buffVFX: {fileID: 0}
+  buffOffset: {x: 0, y: 0.2}
+  buffFollow: 1
+  castSFX: {fileID: 8300000, guid: 88b1cbe3caa3fee4b8b103b5edd7aba9, type: 3}
+  hitSFX: {fileID: 8300000, guid: 7c47b20bb9874304a809dc5580d403ba, type: 3}
+  sfxVolume: 1

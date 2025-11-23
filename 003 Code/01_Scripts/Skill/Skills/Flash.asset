@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4e5c271fab475143b36165411e1c339, type: 3}
+  m_Name: Flash
+  m_EditorClassIdentifier: 
+  skillId: SK009
+  skillName: "\uAE08\uBE5B\uC12C\uAD11"
+  skillIcon: {fileID: -1724461817, guid: eb9424852f4feff4e92953691a49fb6f, type: 3}
+  description: "\uB9E4\uC6B0 \uBC1D\uC740 \uBD88\uBE5B\uC744 \uB9CC\uB4E4\uC5B4 \uC8FC\uBCC0
+    \uBC94\uC704 \uB0B4\uC758 \uC801\uB4E4\uC744 \uC7A0\uC2DC\uB3D9\uC548 \uBB34\uB825\uD654\uC2DC\uD0A8\uB2E4."
+  kind: 2
+  castType: 0
+  duration: 5
+  cooldown: 20
+  cost: 50
+  value: 0
+  attackMultiplier: 0
+  damageFlat: 0
+  range: 0
+  radius: 7
+  targeting: 0
+  moveSpeedPercent: 0
+  stunSeconds: 5
+  installPrefab: {fileID: 0}
+  maxLevel: 3
+  upgradeCost: b80b00007c150000401f0000
+  levelCooldown:
+  - 50
+  - 45
+  - 40
+  levelDuration:
+  - 5
+  - 6
+  - 7
+  levelMPCost: 
+  levelValue: []
+  levelAtkMul: []
+  levelDmgFlat: []
+  levelRange: []
+  levelRadius: []
+  unlockConditions:
+  - requiredSkillId: SK002
+    requiredLevel: 5
+  - requiredSkillId: SK007
+    requiredLevel: 3
+  castVFX: {fileID: 4299396341703345105, guid: d071fae012ef9f04caef5942052d91cc, type: 3}
+  hitVFX: {fileID: 1059332198393711650, guid: d905e2753cfb9a6409cf7ee18ece9b0f, type: 3}
+  castAnchor: 0
+  castOffset: {x: 0, y: 0}
+  castFollowCaster: 0
+  vfxLifetime: 1.5
+  buffVFX: {fileID: 0}
+  buffOffset: {x: 0, y: 0.2}
+  buffFollow: 1
+  castSFX: {fileID: 0}
+  hitSFX: {fileID: 0}
+  sfxVolume: 1

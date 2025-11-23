@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04b23c3d1aacd874ca9db0f27c94de0c, type: 3}
+  m_Name: QT-012
+  m_EditorClassIdentifier: 
+  questId: QT-012
+  kind: 0
+  title: "\uB300\uC7A5\uAC04 \uC5C5\uADF8\uB808\uC774\uB4DC\uD558\uAE30"
+  description: "\uC5ED\uC2DC \uC5EC\uC815\uC5D0\uB294 \uC7A5\uBE44\uAC00 \uAC00\uC7A5
+    \uC911\uC694\uD558\uB2E4. \uB300\uC7A5\uAC04\uC744 \uC5C5\uADF8\uB808\uC774\uB4DC
+    \uD574 \uB354 \uC88B\uC740 \uC7A5\uBE44\uB97C \uC5BB\uC5B4\uBCF4\uC790."
+  assignNpcId: 2
+  completeNpcId: 2
+  goalType: 2
+  targetId: UPGRADE_FORGE
+  targetCount: 1
+  rewardMoney: 500
+  tutorialStepOrder: 11

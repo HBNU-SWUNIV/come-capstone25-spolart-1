@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 133c918b29aeea34799268067fd8cdc0, type: 3}
+  m_Name: CrystalofCurse
+  m_EditorClassIdentifier: 
+  buffId: BUF-009
+  buffName: "\uC800\uC8FC\uC758 \uC218\uC815"
+  buffIcon: {fileID: -494628772, guid: e3a4ceb321080dc46ba29ac0fbc2a9fe, type: 3}
+  price: 500
+  desription: "\uB358\uC804 \uB0B4 \uBAA8\uB4E0 \uBAAC\uC2A4\uD130\uC758 \uC774\uB3D9
+    \uBC0F \uACF5\uACA9 \uC18D\uB3C4\uB97C \uB2A6\uCD98\uB2E4."
+  effectDesc: "\uC774\uB3D9/\uACF5\uACA9\uC18D\uB3C4 -20%"
+  runScoped: 1
+  triger: 3
+  attackPowerMul: 1
+  moveSpeedMul: 1
+  attackSpeedMul: 1
+  miningSpeedMul: 1
+  damageTakenMul: 1
+  critChanceAdd: 0
+  evasionAdd: 0
+  cooldownReductionMul: 1
+  manaRegenMul: 1
+  onKillBuffDuration: 0
+  OnKillBuffAttackPowerMul: 0
+  lowHpThreshold: 0
+  lowHp_DamageTakenMul: 0
+  lowHp_HpRegenPerSec: 0
+  onKillHealPercent: 0
+  onKillManaRegenPercent: 0
+  doubleOreChanceAdd: 0
+  enemySlowMul: 0.8
+  requiredTP002Level: 9

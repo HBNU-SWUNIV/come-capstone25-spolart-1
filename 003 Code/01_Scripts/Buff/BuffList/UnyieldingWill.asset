@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 133c918b29aeea34799268067fd8cdc0, type: 3}
+  m_Name: UnyieldingWill
+  m_EditorClassIdentifier: 
+  buffId: BUF-008
+  buffName: "\uBD88\uAD74\uC758 \uC758\uC9C0"
+  buffIcon: {fileID: -494628772, guid: e3a4ceb321080dc46ba29ac0fbc2a9fe, type: 3}
+  price: 500
+  desription: "\uCCB4\uB825\uC774 \uB0AE\uC744 \uB54C \uBC29\uC5B4\uB825\uACFC \uC0DD\uBA85\uB825
+    \uC7AC\uC0DD\uB960\uC774 \uD06C\uAC8C \uC99D\uAC00\uD55C\uB2E4."
+  effectDesc: "\uCCB4\uB825 20% \uC774\uD558\uC77C \uB54C \uBC29\uC5B4\uB825 +50,
+    \uCD08\uB2F9 \uC0DD\uBA85\uB825 \uD68C\uBCF5 +2"
+  runScoped: 1
+  triger: 2
+  attackPowerMul: 1
+  moveSpeedMul: 1
+  attackSpeedMul: 1
+  miningSpeedMul: 1
+  damageTakenMul: 1
+  critChanceAdd: 0
+  evasionAdd: 0
+  cooldownReductionMul: 1
+  manaRegenMul: 1
+  onKillBuffDuration: 0
+  OnKillBuffAttackPowerMul: 0
+  lowHpThreshold: 0.25
+  lowHp_DamageTakenMul: 0.8
+  lowHp_HpRegenPerSec: 2
+  onKillHealPercent: 0
+  onKillManaRegenPercent: 0
+  doubleOreChanceAdd: 0
+  enemySlowMul: 1
+  requiredTP002Level: 8

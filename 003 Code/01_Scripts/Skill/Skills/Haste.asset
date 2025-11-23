@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4e5c271fab475143b36165411e1c339, type: 3}
+  m_Name: Haste
+  m_EditorClassIdentifier: 
+  skillId: SK001
+  skillName: "\uD5E4\uC774\uC2A4\uD2B8"
+  skillIcon: {fileID: 21300000, guid: b4c75c4ecda6f1e4692c597d972e549d, type: 3}
+  description: "\uC2DC\uC804 \uD50C\uB808\uC774\uC5B4\uB97C \uD3EC\uD568\uD55C \uC8FC\uBCC0
+    \uBC94\uC704 \uB0B4 \uBAA8\uB4E0 \uD50C\uB808\uC774\uC5B4\uC758 \uACF5\uACA9
+    \uC18D\uB3C4\uC640 \uC774\uB3D9 \uC18D\uB3C4\uAC00 \uC99D\uAC00\uD55C\uB2E4."
+  kind: 0
+  castType: 0
+  duration: 5
+  cooldown: 10
+  cost: 40
+  value: 1.2
+  attackMultiplier: 1
+  damageFlat: 0
+  range: 0
+  radius: 7
+  targeting: 0
+  moveSpeedPercent: 0
+  stunSeconds: 0
+  installPrefab: {fileID: 0}
+  maxLevel: 5
+  upgradeCost: 2c010000f4010000bc020000840300004c040000
+  levelCooldown: []
+  levelDuration: []
+  levelMPCost: 
+  levelValue:
+  - 1.2
+  - 1.3
+  - 1.4
+  - 1.5
+  - 1.6
+  levelAtkMul: []
+  levelDmgFlat: []
+  levelRange: []
+  levelRadius: []
+  unlockConditions: []
+  castVFX: {fileID: 6920910660919227700, guid: ac77fbfcea9232341805e96761e99b0e, type: 3}
+  hitVFX: {fileID: 0}
+  castAnchor: 0
+  castOffset: {x: 0, y: 0}
+  castFollowCaster: 0
+  vfxLifetime: 1.5
+  buffVFX: {fileID: 2024680911967708832, guid: 4b05a9ae0b2ac4142a7e5d18a38e1e00, type: 3}
+  buffOffset: {x: 0, y: 0}
+  buffFollow: 1
+  castSFX: {fileID: 8300000, guid: c91fcf414acc0344cb03b13996f1bf3b, type: 3}
+  hitSFX: {fileID: 0}
+  sfxVolume: 1

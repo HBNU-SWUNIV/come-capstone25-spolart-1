@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04b23c3d1aacd874ca9db0f27c94de0c, type: 3}
+  m_Name: QR-004
+  m_EditorClassIdentifier: 
+  questId: QR-004
+  kind: 1
+  title: "\uC880\uBE44 4\uB9C8\uB9AC \uCC98\uCE58"
+  description: "\uC880\uBE44 4\uB9C8\uB9AC\uB97C \uC800\uC9C0\uD558\uB77C."
+  assignNpcId: 
+  completeNpcId: 
+  goalType: 0
+  targetId: MON-002
+  targetCount: 4
+  rewardMoney: 200
+  tutorialStepOrder: 0
